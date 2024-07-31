@@ -1,47 +1,47 @@
-# Football Player Value Prediction
+# <span style="color:blue">Football Player Value Prediction</span>
 
-## Overview
+## <span style="color:green">Overview</span>
 This project analyzes the transfer market for women's football, using machine learning models to predict player market values. As the popularity of women's football grows, the transfer market has become more complex, with increasing transfer fees and data analytics playing a crucial role in decision-making.
 
-## Literature Review
+## <span style="color:red">Literature Review</span>
 
-### Growth in Transfers and Expenditures
+### <span style="color:orange">Growth in Transfers and Expenditures</span>
 - **Significant rise in both transfer numbers and fees.**
 - **Example:** Transfer fees reached $3 million in summer 2022, marking a 140.8% increase.
 
-### Importance of Data Analytics
+### <span style="color:purple">Importance of Data Analytics</span>
 Data-driven decision-making can enhance transfer success compared to intuition-based approaches.
 
-### Use of Alternative Data Sources
+### <span style="color:brown">Use of Alternative Data Sources</span>
 Alternative data, like video games (e.g., FIFA), are utilized to predict player performance due to limited access to comprehensive player data.
 
-## Project Goal
+## <span style="color:teal">Project Goal</span>
 To evaluate machine learning models for predicting the value of women footballers, providing stakeholders with actionable insights for strategic decisions in the transfer market.
 
-## Methodology
+## <span style="color:darkcyan">Methodology</span>
 
-### Data Acquisition
+### <span style="color:darkorange">Data Acquisition</span>
 - **Source:** Data collected from sofifa.com.
 - **Process:** Python script used to scrape data, including player ratings, positions, skills, etc.
 - **Output:** Data stored in `womendataset.csv`.
 
-### Data Processing
+### <span style="color:darkred">Data Processing</span>
 - **Data Split:**
   - Training: 67.4%
   - Testing: 15%
   - Validation: 17.6%
 - **Preprocessing:** Filling missing values and applying Min-Max normalization.
 
-### Model Training
+### <span style="color:darkgreen">Model Training</span>
 - **Models:** Gradient Boosting, Random Forest, K-Nearest Neighbors (KNN), etc.
 - **Optimization:** Bayesian Optimization for hyperparameter tuning.
 
-## Findings
+## <span style="color:darkblue">Findings</span>
 - **Best Model:** Gradient Boosting achieved the highest accuracy.
 - **Fastest Model:** KNN was the fastest in training.
 
-## Discussion
+## <span style="color:darkmagenta">Discussion</span>
 Machine learning models, especially Gradient Boosting, effectively predict the market values of female football players. This provides clubs and agents with valuable insights for making informed transfer decisions.
 
-## Conclusion
+## <span style="color:darkviolet">Conclusion</span>
 The study highlights the effectiveness of machine learning models in predicting football player market values. Further research is necessary to explore the broader applications of these findings in the football transfer market.
