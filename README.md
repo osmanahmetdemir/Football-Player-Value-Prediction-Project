@@ -1,4 +1,5 @@
 # Football Player Value Prediction Project
+
 ### 1) Data Mining and Machine Learning
 
 ## ![Overview](https://img.shields.io/badge/Overview-green)
@@ -34,8 +35,17 @@ To evaluate machine learning models for predicting the value of women footballer
 - **Preprocessing:** Filling missing values and applying Min-Max normalization.
 
 ### ![Model Training](https://img.shields.io/badge/Model_Training-darkgreen)
-- **Models:** Gradient Boosting, Random Forest, K-Nearest Neighbors (KNN), etc.
-- **Optimization:** Bayesian Optimization for hyperparameter tuning.
+- **Models:** Gradient Boosting, Random Forest, K-Nearest Neighbors (KNN), Decision Tree, AdaBoost, Linear Regression.
+- **Optimization:** Bayesian Optimization and Grid Search for hyperparameter tuning.
+
+### ![Libraries Used](https://img.shields.io/badge/Libraries_Used-darkblue)
+The following Python libraries were utilized in this project:
+
+- **`sklearn`**: For machine learning algorithms and model evaluation. It includes a range of supervised and unsupervised learning algorithms, as well as tools for model evaluation and selection.
+- **`seaborn`**: For creating attractive and informative statistical graphics. It simplifies data visualization and exploration.
+- **`matplotlib.pyplot`**: For plotting graphs and visualizing data. It is a versatile library used for creating a wide range of static, animated, and interactive plots.
+- **`pandas`**: For data manipulation and analysis. It provides data structures and functions needed to work on structured data seamlessly.
+- **`numpy`**: For numerical computations and array operations. It supports large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions to operate on these arrays.
 
 ## ![Findings](https://img.shields.io/badge/Findings-darkblue)
 - **Best Model:** Gradient Boosting achieved the highest accuracy.
