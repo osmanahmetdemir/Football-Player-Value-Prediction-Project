@@ -1,4 +1,5 @@
-# ![Football](https://img.shields.io/badge/Football_Player_Value_Prediction-blue)
+# Football Player Value Prediction Project
+### 1) Data Mining and Machine Learning
 
 ## ![Overview](https://img.shields.io/badge/Overview-green)
 This project analyzes the transfer market for women's football, using machine learning models to predict player market values. As the popularity of women's football grows, the transfer market has become more complex, with increasing transfer fees and data analytics playing a crucial role in decision-making.
@@ -45,3 +46,15 @@ Machine learning models, especially Gradient Boosting, effectively predict the m
 
 ## ![Conclusion](https://img.shields.io/badge/Conclusion-darkviolet)
 The study highlights the effectiveness of machine learning models in predicting football player market values. Further research is necessary to explore the broader applications of these findings in the football transfer market.
+
+### 2) SEO Player Value UI
+
+In the first part of our project, we wanted to present the results from our ML model to users more clearly through the UI, displaying statistics and predicted values.
+
+The general project interface and the data we collected are displayed.
+
+The functionality of the search button in our project interface is demonstrated.
+
+To view player statistics in our project, we can click the "View Stats" button. Player statistics in our project are displayed.
+
+In our project, we can sort features such as Position, Age, Club, Nationality, and Value. Here, sorting the Age feature is demonstrated.
